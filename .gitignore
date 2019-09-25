@@ -4,6 +4,7 @@ input/creditcard.csv
 __pycache__/
 *.py[cod]
 *$py.class
+Pipfile.lock
 
 # C extensions
 *.so
